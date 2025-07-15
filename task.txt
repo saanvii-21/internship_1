@@ -1,0 +1,6 @@
+Questions:
+1) Separate examples of datatypes with output
+2) all operator datatypes
+3) convert 9 datatypes into another 9 datatypes (int-float, long, etc)
+4) escape characters
+5) myself details of 7-10 lines code
